@@ -1,0 +1,124 @@
+h1 {
+    color: rebeccapurple;
+}
+
+body {
+    font-family: Montserrat !important;
+    background-color: antiquewhite;
+    background-image: url("https://i.pinimg.com/originals/61/48/e9/6148e995951f1727c6aa946ca47d85ba.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+.nbg {
+    background-color: royalblue !important;
+}
+
+#navi {
+    background-color: #00bcd4 !important;
+    ;
+    color: floralwhite !important;
+}
+
+#about {
+    margin: 40px 0px 40px 0px;
+    opacity: 0.9;
+}
+
+.propic {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    border: solid darkslategrey 5px;
+}
+
+.abt {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #d5f3fe;
+    color: darkslategrey;
+}
+
+.cnt {}
+
+#contactme {
+    text-align: center;
+    margin: 90px 0px 0px 0px;
+    padding-top: 3%;
+    background-color: #d5f3fe;
+    padding-bottom: 30px;
+    opacity: 0.8;
+}
+
+.icn {
+    margin: 20px 30px;
+    color: black;
+}
+
+#projects {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 70px;
+    opacity: 0.9;
+}
+
+#skills {
+    text-align: center;
+    opacity: 0.8;
+
+}
+
+.skill {
+    background-color: #d5f3fe;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 1.3em;
+}
+
+.card {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.card-body {
+    background-color: #d5f3fe;
+}
+
+.card-header {
+    background-color: #66D3FA !important;
+}
+
+#certifications {
+    text-align: center;
+    background-color: #d5f3fe;
+    padding: 50px 0px 50px 0px;
+    margin-bottom: 90px;
+    margin-top: 30px;
+    opacity: 0.8;
+}
+
+html {
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+.carousel-inner {
+    padding: 20px 10px;
+    font-family: Russo One;
+}
+
+.btn {
+    border-radius: 15px !important;
+}
+
+
+@media only screen and (max-width: 400px) {
+    body {
+        padding: 0px 2% 0px 3%;
+    }
+}
