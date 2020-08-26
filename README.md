@@ -1,2 +1,6 @@
 # portfolio
-This is a fully responsive portfolio/CV website created using Bootstrap.
+Created a fully responsive portfolio/CV website using Bootstrap and some custom CSS.
+
+###Learn Bootstrap:
+ https://www.w3schools.com/bootstrap4/
+
