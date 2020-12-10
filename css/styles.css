@@ -86,6 +86,7 @@ body {
 }
 
 .skill {
+    border-radius: 60px;
     background-color: ghostwhite;
     padding-top: 30px;
     padding-bottom: 30px;
@@ -157,6 +158,10 @@ html {
     }
     
      .education {
+        border-radius: 0px;
+    }
+    
+     .skill {
         border-radius: 0px;
     }
 }
