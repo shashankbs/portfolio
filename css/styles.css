@@ -67,6 +67,7 @@ body {
 }
 
 .education {
+    border-radius: 80px;
     background-color: ghostwhite;
     background-color: #d5f3fe;
 }
