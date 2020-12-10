@@ -155,6 +155,10 @@ html {
         padding-top: 20px;
         padding-bottom: 15px;
     }
+    
+     .education {
+        border-radius: 0px;
+    }
 }
 
 @import url("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
